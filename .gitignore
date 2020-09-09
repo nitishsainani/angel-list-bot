@@ -1,0 +1,12 @@
+/geckodriver.log
+/.idea/.gitignore
+/.idea/dictionaries/nitish.xml
+/.idea/Beatifulsoup-for-React-Javascript-Rendered-Application.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+/outputs/
+.env
+venv
+chrome_user_data
