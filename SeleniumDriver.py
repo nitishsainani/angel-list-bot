@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver import ChromeOptions
 import os
-import selenium
 
 class SeleniumDriver:
     def __init__(self):
